@@ -1,2 +1,2 @@
 #!/bin/bash
-ech0 '' > hello
+touch hello
