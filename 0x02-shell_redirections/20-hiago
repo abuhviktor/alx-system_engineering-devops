@@ -1,0 +1,2 @@
+#!/bin/bah
+tr -d c | tr -d C
